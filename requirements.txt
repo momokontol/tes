@@ -1,0 +1,5 @@
+requests
+rich
+futures
+mechanize
+bs4
